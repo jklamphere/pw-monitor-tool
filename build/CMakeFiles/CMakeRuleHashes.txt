@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+9ae7a5c81a533e5f6f322c6b797e3f2d CMakeFiles/fetch-translations
+752dace6814ecc8f22165b9a75d7c403 CMakeFiles/qproc_plugin_autogen
+f4d3712a4e423fb45d7baf2b254cf1ba CMakeFiles/uninstall
+8992fb852123ce8e5b85296b5fcdbbb4 releaseme
